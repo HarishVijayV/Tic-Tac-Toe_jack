@@ -132,15 +132,15 @@ class Main
 		do Output.moveCursor(1,20);
 		do Output.printString("Welcome To Tic Tac Toe !");
 		do Output.moveCursor(13,44);
-		do Output.printString("by Group 1_Batch-B");
+		do Output.printString("by");
                 do Output.moveCursor(15,47);
 		do Output.printString("Harish vijay");
                 do Output.moveCursor(16,47);
-		do Output.printString(" Sampreeth");
+		do Output.printString("");
                 do Output.moveCursor(17,47);
-		do Output.printString("  Vikyanth");
+		do Output.printString("");
                 do Output.moveCursor(18,47);
-		do Output.printString("   Vishal");
+		do Output.printString("");
 		do Output.moveCursor(6,0);
 		return;
 	}	
