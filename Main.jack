@@ -34,7 +34,7 @@ class Main
 			do X.draw(n);
 			if (Main.Checkwinner(arr,1)=false)
 			{
-				do Output.printString("Player 1 won!");
+				do Output.printString("Player 1 won!Player 1 won!Player 1 won!");
 				let flag = false;
 			}
 			if ((counter = 9) & (flag))
@@ -63,7 +63,7 @@ class Main
 				do O.draw(n);
 				if (Main.Checkwinner(arr,-1) = false)
 				{
-					do Output.printString("Player 2 won!");
+					do Output.printString("Player 2 won!Player 2 won!Player 2 won!");
 					let flag = false;
 				}
 			}	
